@@ -1,0 +1,2 @@
+# aithereum
+AIthereum Foundation
